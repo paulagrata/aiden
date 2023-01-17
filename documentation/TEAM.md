@@ -8,7 +8,7 @@ Email:  kylecbrick@lewisu.edu
 
 GitHub: [kbrick712](https://github.com/kbrick712)
 
-Role: 
+Role: Member
 
 ## Bryan Gabe
 
