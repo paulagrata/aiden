@@ -54,7 +54,7 @@ Learn about our Continuous Intergration and Continuous Delivery [click here for 
 
 How is the team interacted and worked [click here](/documentation/PROCESS.md)
 ## Credits
-To see who is on the time or to contact them [click here](/documentation/TEAM.md)
+To see who is on the team or to contact them [click here](/documentation/TEAM.md)
 
 Learn more about the team by going to our website [Link: ITERATION STATION](https://witty-meadow-055b73d10.1.azurestaticapps.net/)
 
