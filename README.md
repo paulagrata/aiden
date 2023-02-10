@@ -11,7 +11,7 @@ This project started as the name Stadia. It was created to be a Interactive Rend
 [Link to teams gamejolt](https://gamejolt.com/games/aidan-interactive-rendering/703091)
 go to the teams gamejolt website, this is where the packaged executable file is host. Once the program has finished downloading open it (you will need to unzip it first), you should then see the exe file called `Aidan.exe` and run the program.
 
-When the program is running first go to `Model Options` and click on the `Defalut` so it can download the need file, after the wall of text in blue has stoped you can go back to the home screen and click on `Start` and the rendering should start
+When the program is running first go to `Model Options` and click on the `Default` so it can download the need file, after the wall of text in blue has stoped you can go back to the home screen and click on `Start` and the rendering should start
 
 *Note:
 At the moment to download the program from gamejolt a invite has to made and sent to you  
