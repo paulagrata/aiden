@@ -3,7 +3,7 @@
 ## About 
 Aidan Interactive Rendering is a rendering tool that uses Unreal Engine 4 to bring acritical designs to life. Using this software will allow you the chance to show off your designs that have been built in Revit and exported to the cloud that hosts all the current designs.
 
-This project started as the name Stadia by Robert and Eric Pogue. They created a Interactive Rendering Tool within Unity that allowed architects to see their renders from Revit in real time without the limit of hardware. This project was very successful and sold commercially for awhile until it was abandoned a few years ago. Eric Pogue decided to bring the project back to life in a stronger 3D engine so that is where Unreal Engine 4 comes in. We are attempting to rebuild this project but with the full ability to run at build time (lighting, materials, and meshes) and not have to be tied down by the editor for each new ali file we wish to use. 
+This project started as the name Stadia. It was created to be a Interactive Rendering Tool within Unity that allowed architects to see their renders from Revit in real time without the limit of hardware. This project was very successful and sold commercially for awhile until it was abandoned a few years ago. It has been decided to bring the project back to life in a stronger 3D engine so that is where Unreal Engine 4 comes in, attempting to rebuild this project but with the full ability to run at build time (lighting, materials, and meshes) and not have to be tied down by the editor for each new ali file to use.
 
 [For more about the intial efforts click here](https://www.lewis.education/?cpsc=sp22-cpsc-49200-001&hide-nav=y#/activity/aidan)
 ## Set Up 
