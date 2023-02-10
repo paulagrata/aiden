@@ -1,11 +1,3 @@
-Iteration Station
-
-01/28/2022
-
-Software Capstone
-
-Team Minimum Value Product
-
 A minimum viable product is described as a version of a product that allows team members to maximize learning about customers with the least effort. An MVP should be a product that *could* stand alone, if need be, but can or will be improved upon in the future. The importance of an MVP for a team is acknowledging the short-term goal that will bring in some value. Establishing an MVP allows developers to focus on tools and systems that users and customers need instead of what they may want but is unnecessary to the completion of the project. Also, if an MVP has value with just the core principles of the project, this is an easy way to validate concepts and distinguish between the practicality of projects and help managers or development teams to decide on which ideas to pursue. With regards to Aidan Interactive Rendering, I believe that an MVP for this project would be a version that produces interactive rendering through Unreal Engine (excluding Revit export functionality).
 
 In a minimum viable product version of AIR (Aidan Interactive Rendering), the focus would be on achieving cloud computational power, and Unreal Engine’s graphical production. I describe this as an MVP because it may operate from specific models that developers hard code in, but doesn’t necessarily possess extra functionality, such as communicating with Revit for architectural designs or doing computations in the cloud. This does achieve status as a product, however, because independently it can provide interactive renderings, however, it doesn’t contain extra enhancements that cloud computing will provide or a larger pool of designs that Revit can achieve.
