@@ -1,7 +1,7 @@
 # Sustainability File
 
 ## About Aidan
-This project started as the name Stadia. It was created to be a Interactive Rendering Tool within Unity that allowed architects to see their renders from Revit in real time without the limit of hardware. This project was very successful and sold commercially for awhile until it was abandoned a few years ago. Eric Pogue decided to bring the project back to life in a stronger 3D engine so that is where Unreal Engine 4 comes in. We are attempting to rebuild this project but with the full ability to run at build time (lighting, materials, and meshes) and not have to be tied down by the editor for each new ali file we wish to use. 
+This project started as the name Stadia. It was created to be a Interactive Rendering Tool within Unity that allowed architects to see their renders from Revit in real time without the limit of hardware. This project was very successful and sold commercially for awhile until it was abandoned a few years ago. It has been decided to bring the project back to life in a stronger 3D engine so that is where Unreal Engine 4 comes in, attempting to rebuild this project but with the full ability to run at build time (lighting, materials, and meshes) and not have to be tied down by the editor for each new ali file to use. 
 
 ## Services Used
 - [Amazon Web Services (AWS)](https://aws.amazon.com) - Host binary *.ali files
