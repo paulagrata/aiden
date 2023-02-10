@@ -51,5 +51,3 @@ After generating it should have these folders and files:
 The Team Minimum Viable Product [Learn more here](/documentation/MVP.md)
 
 Learn about our Continuous Intergration and Continuous Delivery [click here for CI-CD](/documentation/CI-CD.md)
-
-*if the website is down the code [is here](/other-resources/team-spring2022)
